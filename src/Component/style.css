@@ -1,0 +1,98 @@
+.main {
+    background-color: blueviolet;
+    height: 50px;
+ }
+ 
+ .home {
+    text-decoration: none;
+    font-size: 35px;
+    color: white;
+ }
+ 
+ .student {
+    text-decoration: none;
+    font-size: 35px;
+    color: white;
+ 
+ }
+ 
+ .contact {
+    text-decoration: none;
+    font-size: 35px;
+    color: white;
+ 
+ }
+ 
+ .home1 {
+    margin-top: 40px;
+    margin-left: 130px;
+    font-size: 30px;
+ 
+ }
+ 
+ .student1 {
+    font-size: 40px;
+    margin-top: 40px;
+    text-align: center;
+    color: indianred;
+ }
+ 
+ .contact1 {
+    font-size: 30px;
+    margin-top: 40px;
+    text-align: right;
+    margin-right: 130px;
+ }
+ 
+ .btn {
+    margin-left: 400px;
+    background-color: darkseagreen;
+ 
+ }
+ 
+ .table {
+    width: 500px;
+    margin-left: 450px;
+    margin-top: 30px;
+    background-color:aquamarine;
+   
+ }
+ 
+ th {
+    text-align: center;
+ }
+ 
+ table,
+ tr,
+ th,
+ td {
+    border: 1px solid black;
+ }
+ 
+ tr,
+ th,
+ td {
+    padding: 10px;
+ }
+ h1{
+    text-align: center;
+    margin-top: 20px;
+ }
+ .grid{
+        background-color: aqua;
+        height: 500px;
+        width: 850px;
+ 
+        font-weight: bold;
+        font-size: large;
+        border-radius: 10px;
+        text-align: center;
+        display:'flex';
+        justify-content:'center';
+        margin-left: 300px;
+        margin-top: 50px;
+    }
+ .name{
+    margin-top: -10px;
+ } 
+ 
